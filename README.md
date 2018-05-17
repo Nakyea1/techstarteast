@@ -1,7 +1,7 @@
 # techstarteast
 Nakyea's project portfolio
 
-### 360
+### 360 
 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/nakyea1/nakyea-s-360-photo'></script>
 
